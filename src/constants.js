@@ -1,1 +1,1 @@
-export const DB_NAME = "networkin";
+export const DB_NAME = "networkin"
